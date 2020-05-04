@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587990025 source:c:\users\ricar\desktop\sistemas de informação\7s\alg ii\codes\lab3\camp_reg_fixo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_reg_fixo.h"
+
+1587975150 c:\users\ricar\desktop\sistemas de informação\7s\alg ii\codes\lab3\camp_reg_fixo.h
+
+1587975150 source:c:\users\ricar\desktop\sistemas de informação\7s\alg ii\codes\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"camp_reg_fixo.h"
+
